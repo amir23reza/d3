@@ -1,3 +1,12 @@
 .spec {
     background-color: red;
 }
+.tooltip {
+    position: absolute;
+    background-color: white;
+    border-radius: 8px;
+    border: solid 1px rgb(4, 16, 56);
+    color: rgb(4, 16, 56);
+    padding: 3px;
+    opacity: 0;
+}
