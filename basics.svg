@@ -2,7 +2,7 @@
     <rect x="100" y="100" width="200" height="200" fill="black"/>
     <circle cx="200" cy="200" fill="brown" r="100" />
     <polyline points="200 100, 100 300, 300 300" fill="blue" /> <!-- triangle -->
-    <text x="5" y="490" font-family="inherit" font-size="25" color="beige"> <!-- Text in SVG -->
+    <text x="5" y="490" font-family="inherit" font-size="25" color="beige" text-anchor="middle"> <!-- Text in SVG -->
         SVG Training
     </text>
     <g id="diamond"> <!-- you can group shapes together and use them as a single new shape -->
